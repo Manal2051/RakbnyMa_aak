@@ -20,10 +20,6 @@
 - ✅ Repository Pattern + Unit of Work for data access
 
 ---
-
-
----
-
 ## 🛠️ Tech Stack
 
 | Technology              | Purpose                               |
