@@ -45,5 +45,5 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YourUsername/RakbnyMaaak.git
+git clone https://github.com/Manal2051/RakbnyMa_aak.git
 cd RakbnyMaaak
